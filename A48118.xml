@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter of advice to the petitioning apprentices</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48118</idno><idno type="EEBO-CITATION">15666902</idno>
+  <idno type="VID">104320</idno>
+  <idno type="EEBO-PROQUEST">2240886555</idno>
+  
+            <idno type="STC">Wing L1569</idno>
+            <idno type="STC">ESTC R36347</idno>
+            <idno type="OCLC">15666902</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104320)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter of advice to the petitioning apprentices</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apprentices --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104320:1"/>
+            <head>A LETTER OF ADVICE TO THE <hi>Petitioning Apprentices.</hi>
+            </head>
+            <p>AFter the mighty and Gygantick roaring of the <hi>Mobile</hi> of the Fanatick Pig<g ref="char:EOLhyphen"/>mies against the Loyal proceedings of the greatest, and best bred part of <hi>London Apprentices,</hi> for no other Reasons, and upon no other Incitements, then that they obstructed the Cabals, and openly protested against the Dis<g ref="char:EOLhyphen"/>loyal proceedings of ill-minded men, and persons disaffected to the King and King<g ref="char:EOLhyphen"/>dom, and offering their Lives and Fortunes to His Majesty in His Just Vindication, the mighty Mountain of their Seditious and Scandalous Reflections, and Tattle, like that in the Fable, which (to the amazement of the Beholders) did belch forth unheard of Groans, and at last, only brought forth the small Body of a <hi>Mouse;</hi> So, This of Theirs, after the tedious noise, and roarings of Factions Cabals, and Seditious Pam<g ref="char:EOLhyphen"/>phlets, that seem'd to threaten no less than the down-fall of those Loyal and Worthy Youths, only produced the Image and Form of a Counter-Address, by the no less Scurrilous then Factions Party of the <hi>Apprentices</hi> of <hi>London;</hi> which like the <hi>Goliah</hi> of the <hi>Philistines,</hi> defies the Armies of Cod and <hi>Israel;</hi> But it is not to be feared, that the Justness of the Cause they resist, and the Honesty of their Antagonists Inten<g ref="char:EOLhyphen"/>tions, will raise up a <hi>David</hi> to Destroy this their Uncircumcised and Unmannerly Champion. And though the same Reasons that were brought against the most Loyal Youths, might with Reason and Impartiality be thrown upon their <hi>Antagonists.</hi> Yet to avoid all manner of Reproach and Scandal, I shall forbear to do it, but content my self to say, that I think it the greatest sausiness imaginable, for so Inconsiderable a Party, and such raw and nonsensical Boys, to be so bold, as to presume to Coun<g ref="char:EOLhyphen"/>cel the Wisest, Justest, and best of Princes; But what means will not men attempt, rather than not attain to their designs; will they not dare to throw aspersions upon Authority, and vilifie the very Throne of Justice, by their Grand Implements of Fa<g ref="char:EOLhyphen"/>ction, <hi>Janeway, Curtis, Care</hi> and <hi>Vile,</hi> and multitudes of the same Stamp and Gang, whose Marks are in their Forheads, and ought to be shun'd like Infected Persons; For now a days no Plague so Infectious as the Plague of Faction and Fanaticism, that seems even to threaten the downfal of the Nations Tranquility, and none so likely to be Infected as raw Youths in the height of their Bloud, who are apt to embrace the words of a Seditious Teacher for the voice of an <hi>Oracle;</hi> And therefore wisely did the late Rebels instigate persons of such Principles and Conditions to Rebel against the best of Princes, as knowing them to be Resolute on any Design that is dawb'd over with Religion and Liberty; Ingeniously hath a late Author set down the <hi>Ap<g ref="char:EOLhyphen"/>prentices Reformation</hi> in a late <hi>Satyr</hi> against Separatists, whose words I will transcribe at large, as trusting the Judgement of so Learned a Pen, sooner than my own raw Fancy and Judgement; and the rather because it was pen'd before the Petition was so much as thought of, and so cannot be call'd Malice or Envy, but is rather a Pro<g ref="char:EOLhyphen"/>phesy of what we may expect then a <hi>Satyr</hi> on what's past; for thus says that Worthy Author on the Subject.</p>
+            <q>
+               <lg>
+                  <l>—"Prentices themselves will have it so:</l>
+                  <l>"They'l root out POPERY what s'ever come,</l>
+                  <l>"It is Decreed; nor shall thy Fate Oh <hi>ROME</hi>
+                  </l>
+                  <l>Resist their Vow; They'l do't to a Hair, for they</l>
+                  <l>Who if upon <hi>Shrove Tuesday</hi> or <hi>May-day,</hi>
+                  </l>
+                  <l>Beat an old Bawd, or fright poor Whores they cou'd,</l>
+                  <l>Thought themselves better than their Founder <hi>LUD,</hi>
+                  </l>
+                  <l>Have now vast Thoughts, and scorn to set upon</l>
+                  <l>Any Whore less than her of <hi>BABYLON.</hi>
+                  </l>
+                  <l>They're mounted high, contemn the humble Play</l>
+                  <l>of <hi>CAT</hi> or <hi>FOOT-BALL</hi> on a Holiday</l>
+                  <l>In <hi>Finsbury Fields;</hi> No, 'tis their brave Intent,</l>
+                  <l>VVisely t'advise the KING t'a PARLIAMENT;</l>
+                  <l>The VVork in hand they'l disapprove, or back,</l>
+                  <l>And cry i'th'Reformation, <hi>What d'ye Lack?</hi>
+                  </l>
+                  <l>Can they whole Shop-Books write, and yet not know</l>
+                  <l>If BISHOPS have a Right Divine, or no?</l>
+                  <l>And can they sweep their Shops and Dores so well,</l>
+                  <l>And for to cleanse a <hi>STATE</hi> as yet not tell?</l>
+                  <l>No, Study and Expetience makes them wise,</l>
+                  <l>VVhy should they else watch late, and early rise?</l>
+                  <l>Their wit so flows, that when they think to take</l>
+                  <l>But Sermon-Notes, they oft-times Sermons make.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>And then a little farther by way of</hi> Irony, <hi>he says,</hi>
+               <q>
+                  <l>Go on Brave <hi>HEROES,</hi> and perform the rest,</l>
+                  <l>Increase your Fame each Day a Yard at least,</l>
+                  <l>Till your high Names are grown as Glorious full</l>
+                  <l>As the Four <hi>London Prentices</hi> at th'<hi>BULL.</hi>
+                  </l>
+                  <l>So may your goodly Ears still Prickant grow,</l>
+                  <l>And no bold Hair increase to mar the show.</l>
+                  <l>So may your <hi>Moo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>-Fields</hi> Pastime never fail,</l>
+                  <l>And all the Towns about keep mighty Ale;</l>
+                  <l>So may You come to sleep in Furr at last,</l>
+                  <l>And some <hi>Smectimnuan</hi> when your Days are past;</l>
+                  <l>Your <hi>Funeral Sermons</hi> in six Hours Rehearse,</l>
+                  <l>And <hi>Hewood</hi> sing you Praise in lofty Verse.</l>
+               </q>
+            </p>
+            <pb n="2" facs="tcp:104320:2"/>
+            <p>Thus far this Learned Satyrest (which I challenge any one of their Pensionary Scrib<g ref="char:EOLhyphen"/>lers to answer,) hath set down the <hi>Apprentices</hi> blessed Reformation, and therein hath with a Prophetick as well as Poetical strain depicted our present Reformadoes; But it may be objected, that there is not any harm in their Address, and that they do not aspire to the Throne of Majesty; To which I answer thus, Is there no harm in thwar<g ref="char:EOLhyphen"/>ting Authority, and protesting against the Addresses, those true and grateful demon<g ref="char:EOLhyphen"/>strations of Loyalty? Is it no harm to Scandalize those Youths, that took the first occasion by way of Address, to re-gain their Reputations, and profess their Loyalty? Is it not harm to disapprove and dislike what His Majesty so much Honours and ap<g ref="char:EOLhyphen"/>proves of? If it be not harm (as they will have much ado to prove,) yet I am sure it is the greatest piece of ill manners imaginable; and then on the other hand, who will call it humility, that they approach not to His Majesty with their Address, but rather a just shame flowing from the unmannerliness, if not Injustice of their Cause; for were it good, just and honest, according to the Laws of the Nation, Reason and Civility, why should they be fearful to approach to His Majesty, when all the World that know him, esteem him a Prince that is not a hinderer but an encourager of all things that are honest, and tend to his own and the Nations security; But why he should be loaded by a Petition from the meanest of his Subjects, to councel him in the greatest of his Affairs, I am not sensible; I should rather think it would better become them to let it alone, or at least I say till their betters had gone before them in this Affair; But alas whither will not the blind <hi>zeal of I action</hi> hurry the wisest men, and much less the Rabble of Head-stong and unthinking Striplings; But yet notwith<g ref="char:EOLhyphen"/>standing all this, you can be so sensible as to pretend to Loyalty, when you visibly detest that very Address of the <hi>Apprentices,</hi> that was so Eminent for Loyalty and Allegiance to the best of Kings; What is your Petition less then tacitly to challenge your <hi>Antagonists</hi> into the Field, to vindicate themselves from your aspersions, and so cause a Rebellion; Therefore as <hi>Apprentices,</hi> I would desire and intreat you, especi<g ref="char:EOLhyphen"/>ally those of you, that can pretend to any thing of worthy Birth, or Civil Educa<g ref="char:EOLhyphen"/>tion, to forbear these proceedings, which if you have but the sence of rational crea<g ref="char:EOLhyphen"/>tures, you cannot but see it will tend to no good; Why should it be said of You in after-ages, that you were headstrong in Villany, and prone to Faction &amp; Rebellion? who for the bare notion of Loyalty dare break even the very Laws of Reason and Civility, and spit scandal on the lives of your fellows, in moving so contrary to the Principles of the Loyalty that you pretend to; I assure you I have studied all the rea<g ref="char:EOLhyphen"/>son imaginable, and can find none so sufficient to excuse this your saucy presumption; nay I have taken the advice of graver years, and wiser heads than my own, yet they can put no favourable construction upon your present proceedings, than that you are led away by the specious pretences of ill-minded &amp; disaffected persons, who for their <hi>Zeal to the Cause,</hi> will dare to affront even the Majesty of Heaven; There<g ref="char:EOLhyphen"/>fore despise not the poor advice of your fellow <hi>Apprentices,</hi> who desire nothing more then the well-fare of the King and Kingdom, of this City in particular, and in It, You, and all the <hi>Apprentices</hi> besides, hoping that upon better thoughts you will see the evil of your ways, and the unmannerliness of your proceedings; and not pretend to Councel your Councellours, and teach your Senators wisdom, but steadily to six your Loyalty to the best of Princes, against all opposers of what Sect or con<g ref="char:EOLhyphen"/>dition soever, and be not led away by Seditious Masters, and more Seditious Tea<g ref="char:EOLhyphen"/>chers, but adhere to the true Church of <hi>England,</hi> which never yet could be scan<g ref="char:EOLhyphen"/>dal'd with that infamous crime of Rebellion; and give and sacrifice your lives and fortunes to His Majesty's Service, in vindication of His Supremacy and your own Al<g ref="char:EOLhyphen"/>legiance, which that you may do to the Eternal Honour of the rest of the <hi>Appren<g ref="char:EOLhyphen"/>tices</hi> of this Famous City, is the hearty wishes and endeavours of your Fellow-<hi>Ap<g ref="char:EOLhyphen"/>prentices,</hi> though an utter enemy to your present proceedings; Grant me but a favou<g ref="char:EOLhyphen"/>rable and impartial reading of what is here set down, and then any of you without partiality or malice, give me correction wherein I have transgressed the Laws of the Nation, Reason or Conscience, or the Duty I owe His Majesty, and the Veneration due to this City, which God willing I will do my endeavour to aquit, and so hoping you will see your errours, and recant; I take leave, and remain your loving friend as you prove; Farewel.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>N. Thompson,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
